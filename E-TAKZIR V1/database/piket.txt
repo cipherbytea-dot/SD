@@ -1,0 +1,7 @@
+Ustadz Abdullah|Senin|Shift 1
+Ustadz Abdullah|Selasa|Shift 1
+Ustadz Rudi|Rabu|Shift 2
+Ustadz Rudi|Kamis|Shift 2
+Ustadz Farhan|Jumat|Shift 1
+Ustadz Farhan|Sabtu|Shift 1
+Ustadz Imam|Minggu|Shift 2

@@ -1,0 +1,5 @@
+/home/salapip/Documents/Struktur Data/E-TAKZIR V1/build/CMakeFiles/E-TAKZIR.dir
+/home/salapip/Documents/Struktur Data/E-TAKZIR V1/build/CMakeFiles/edit_cache.dir
+/home/salapip/Documents/Struktur Data/E-TAKZIR V1/build/CMakeFiles/rebuild_cache.dir
+/home/salapip/Documents/Struktur Data/E-TAKZIR V1/build/CMakeFiles/E-TAKZIR_autogen_timestamp_deps.dir
+/home/salapip/Documents/Struktur Data/E-TAKZIR V1/build/CMakeFiles/E-TAKZIR_autogen.dir
